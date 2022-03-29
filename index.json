@@ -1048,6 +1048,9 @@
       }
     },
     "arm64": {
+      "jdk@graalvm-java17": {
+        "22.2.0-dev-20220326_0133": "tgz+https://github.com/graalvm/graalvm-ce-dev-builds/releases/download/22.2.0-dev-20220326_0133/graalvm-ce-java17-darwin-aarch64-dev.tar.gz"
+      },
       "jdk@adoptium": {
         "1.17": "tgz+https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17%2B35/OpenJDK17-jdk_aarch64_mac_hotspot_17_35.tar.gz",
         "1.17.0.1": "tgz+https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.1_12.tar.gz",
